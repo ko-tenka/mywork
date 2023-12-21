@@ -1,0 +1,201 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.previu {
+    background-image: url('photo15.jpg');
+    background-size: cover;
+}
+
+.blocks-tab {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+.prob {
+    text-transform: lowercase;
+    width: 150px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.info {
+    display: flex;
+}
+
+.info-text {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+    margin-left: -150px;
+}
+
+.text-1{
+    position: relative;
+    margin-top: 350px;
+    width: 70%;
+    margin-left: 20%;
+}
+
+.text-2{
+    position: relative;
+    margin-top: 60px;
+    margin-left: calc(50%-300px);
+    width: 70%;
+}
+
+.avatar {
+    width: 187px;
+    height: 256px;
+    margin-top: 140px;
+    margin-left: 20%;
+    margin-bottom: 0;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, .25) 
+}
+
+
+
+.glav {
+    text-align: center;
+    font-size: 130px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    vertical-align: text-top;
+}
+
+
+.iam {
+    text-align: left;
+    width: 60%;
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    margin-left: 10%;
+    text-transform: lowercase;
+    position: relative;
+}
+.text-3 {
+    position: relative;
+    width: 70%;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 22px;
+    margin-left: 10%;
+    text-transform: uppercase;
+    line-height: 2;
+}
+
+.previu-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.photomy {
+    display: flex;
+    height: 800px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px; 
+    margin-right: 0;
+}
+
+.iam-2 {
+    text-align: left;
+    width: 60%;
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+    margin-left: 10%;
+    text-transform: lowercase;
+    position: relative;
+}
+
+
+.list {
+    justify-content: flex-end;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 250px;
+}
+.parag {
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.vid {
+    width: 500px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-transform: lowercase;
+    font-size: 16px;
+}
+
+.parag1{
+    margin-left: calc(-700px);
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.vid1{
+    width: 500px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-transform: lowercase;
+    font-size: 16px;
+}
+
+.content {
+    background-image: url('photo_line_color.JPEG');
+    background-size: cover;
+    width: 100; 
+}
+
+
+.contact {
+    text-align: center;
+    font-size: 130px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    vertical-align: text-top;
+    text-transform: lowercase;
+
+}
+
+.table_contact1 {
+    
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    margin: 0;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 16px;
+    
+}
+
+.table_contact2 {
+    
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.table_contact td {
+    width: 200px;
+}

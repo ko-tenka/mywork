@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../core-css-selectors-logo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "core-css-selectors-logo"
+	}
+}
